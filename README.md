@@ -2,4 +2,4 @@
 demo repo 
 
 
-test for public view
+test for public access
