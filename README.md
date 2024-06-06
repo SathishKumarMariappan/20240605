@@ -21,3 +21,6 @@ git commit -m "adding additional cmd's to readme"
 git commit --amend -m "adding additional cmd's to readme" 
 
 git push
+
+
+                  
